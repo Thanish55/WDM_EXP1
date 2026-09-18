@@ -1,8 +1,12 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 23.01,2026
+### DATE: 27-07-2026
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
+```
+Name : THANISH N
+Reg No : 212223220117
+```
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Employee Table.
 
@@ -13,7 +17,7 @@ Employee Data
 @relation employee
 @attribute name {x,y,z,a,b}
 @attribute id numeric
-@attribute salary {low,medium,high} 
+@attribute salary {low,medium,high}
 @attribute exp numeric
 @attribute gender {male,female}
 @attribute phone numeric
@@ -53,14 +57,16 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-Employee Data :
 
-<img width="630" height="275" alt="Screenshot 2026-01-23 134931" src="https://github.com/user-attachments/assets/3131dfa2-c4b0-4291-9703-f6d34681eeb9" />
+**Employee Data**
+
+<img width="1920" height="1200" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/5addbafe-77c9-45ad-81c7-52bc887996ba" />
 
 
-Weather Table :
+**Climate Data**
 
-<img width="595" height="366" alt="Screenshot 2026-01-23 135021" src="https://github.com/user-attachments/assets/de1e7dfc-ab09-42a8-aca6-0ccd16f356e8" />
+<img width="1920" height="1200" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/4f730886-735b-443b-a900-2f1add78087f" />
+
 
 
 
@@ -84,14 +90,10 @@ Weather Table :
 
 ### OUTPUT:
 
-Employee Data :
-
-<img width="613" height="248" alt="Screenshot 2026-01-23 135559" src="https://github.com/user-attachments/assets/0630da89-bb70-4ced-ada5-a50a12c2dfab" />
 
 
-Weather Data :
+<img width="1920" height="1200" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/3cd6ab66-04f1-4cdb-8ec3-fb4206dde60e" />
 
-<img width="589" height="361" alt="Screenshot 2026-01-23 135453" src="https://github.com/user-attachments/assets/7bb1c8d6-83ee-48fc-8a4d-2dd66ae69519" />
 
 
 ### 2) Remove -> Pre-Processing Technique:
@@ -110,14 +112,9 @@ Weather Data :
 
 ### OUTPUT:
 
-Employee Data :
-
-<img width="666" height="262" alt="Screenshot 2026-01-23 135630" src="https://github.com/user-attachments/assets/b2aabf4b-53c2-4994-b6d9-8b0eebc2d344" />
 
 
-Weather Data :
-
-<img width="722" height="372" alt="image" src="https://github.com/user-attachments/assets/860da782-1f99-46a4-94d7-4013fdb35b33" />
+<img width="1920" height="1200" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/5a1b299c-3780-4c33-9fe4-d507b2ce1c1f" />
 
 
 
@@ -137,14 +134,9 @@ Weather Data :
 
 ### OUTPUT:
 
-Employee Data :
-
-<img width="601" height="249" alt="image" src="https://github.com/user-attachments/assets/8a7b94d2-740d-42d2-a94e-85a9f06e826c" />
 
 
-Weather Data :
-
-<img width="574" height="359" alt="image" src="https://github.com/user-attachments/assets/3640a1ef-6442-439b-9e7c-8c24d5e3fdeb" />
+<img width="1920" height="1200" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/037d05f2-ff49-4193-9181-e9b5c800a17b" />
 
 
 
